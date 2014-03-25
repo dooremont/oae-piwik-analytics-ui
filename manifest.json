@@ -1,0 +1,7 @@
+{
+   
+   "trigger": {
+    "onLoad": true
+    },
+    "src": "piwik.html"
+}

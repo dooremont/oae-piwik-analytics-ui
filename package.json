@@ -1,0 +1,26 @@
+{
+    "name" : "oae-piwik-analytics-ui",
+    "description": "Module piwik for UI OAE",
+    "version": "0.0.1",
+    "homepage": "https://github.com/dooremont/oae-piwik-analytics-ui",
+   "author": {
+    "name": "Dooremont Frederic",
+    "email": "frederic.dooremont@univ-littoral.fr"
+  },
+  "keywords": [
+    "piwik",
+    "Tracker",
+    "hilary",
+    "oae"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dooremont/oae-piwik-analytics-ui.git"
+  },
+  "licenses": [
+    {
+      "type": "ECLv2",
+      "url": "http://opensource.org/licenses/ecl2.php"
+    }
+  ]
+}
